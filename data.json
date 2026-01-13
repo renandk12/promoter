@@ -30,7 +30,7 @@
             "palette": {
                 "primary": "#d1005a",
                 "secondary": "#f8f8f8ff",
-                "background": "#f00000",
+                "background": "#000000",
                 "surface": "#fff2ff",
                 "on_primary": "#ffffff",
                 "on_background": "#ffffff",
