@@ -25,7 +25,7 @@
         "address": "1",
         "parameters": {
             "lang": "pt",
-            "theme_page": "themeCustom",
+            "theme_page": "theme-siosp",
             "slug": "match-tech",
             "palette": {
                 "primary": "#d1005a",
